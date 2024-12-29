@@ -50,9 +50,9 @@
       align=left
       margin=10
       width=80
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/71911561?v=4"
     />
-    <p>&nbsp&nbsp&nbspSeu Nome<br>
+    <p>&nbsp&nbsp&nbspLiliany Nunes<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/LilianyNunes">
     GitHub</a>&nbsp;|&nbsp;
