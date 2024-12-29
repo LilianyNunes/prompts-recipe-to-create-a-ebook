@@ -1,6 +1,8 @@
 # **Projeto EBOOK: Magia com Flutter**
 
-> **Bem-vindo ao mundo da magia e da programação!** Este é um repositório dedicado ao ebook que combina a poderosa ferramenta Flutter com o universo mágico de Harry Potter. Aqui, você aprenderá os princípios básicos de Flutter de uma forma encantadora.
+**Bem-vindo ao mundo da magia e da programação!** Este é um repositório dedicado ao ebook que combina a poderosa ferramenta Flutter com o universo mágico de Harry Potter. Aqui, você aprenderá os princípios básicos de Flutter de uma forma encantadora.
+> **Nota:** Este ebook foi criado exclusivamente para fins de estudo e demonstração de tecnologias de IA e ferramentas relacionadas.
+
 
 <a href="./output/ebook-flutter.pdf" title="View PDF now"> 📕 Clique aqui para ler</a>
 
