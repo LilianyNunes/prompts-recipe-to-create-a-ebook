@@ -1,53 +1,51 @@
-# Projeto Podcast Gerado por I.A.s
+# **Projeto EBOOK: Magia com Flutter**
 
-> ℹ️ **NOTA:** Este é o repositório desenvolvido para gerar um podcast utilizando ferramentas de IA, passando por diversas etapas criativas automatizadas, para completar um desafio de projeto da DIO.
+**Bem-vindo ao mundo da magia e da programação!** Este é um repositório dedicado ao ebook que combina a poderosa ferramenta Flutter com o universo mágico de Harry Potter. Aqui, você aprenderá os princípios básicos de Flutter de uma forma encantadora.
+> **Nota:** Este ebook foi criado exclusivamente para fins de estudo e demonstração de tecnologias de IA e ferramentas relacionadas.
 
-<a href="https://soundcloud.com/liliany-nunes-2099242/a-ordem-dos-algoritmos-segredos-da-ia-para-transformar-seus-estudos"> 🎧 Clique aqui para ouvir</a>
 
-O objetivo do projeto é criar um podcast com o uso de **ChatGPT**, **Gencraft** e **ElevenLabs**, utilizando prompts criativos para cada parte do processo, desde o roteiro até o áudio e a capa.
+<a href="./output/ebook-flutter.pdf" title="View PDF now"> 📕 Clique aqui para ler</a>
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 **Tecnologias utilizadas no projeto**
 
-- [ChatGPT](https://chat.openai.com/) 
-- [Gencraft](https://gencraft.com/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-
-## ✨ Como foi feito?
-
-- **Roteiro** gerado via ChatGPT
-- **Áudio** gerado pelo ElevenLabs
-- **Capa do podcast** criada com o Gencraft
-
-## 📚 Materiais
-
-- [Notion Template](#) 
-
-## 🛠️ Instruções de execução
-
-Siga o passo a passo abaixo para gerar o podcast de maneira automatizada, utilizando os prompts criados:
-
-- 🤖 1. Use o ChatGPT para gerar o **roteiro** do podcast.
-- 🤖 2. Utilize o ElevenLabs para **gerar o áudio** a partir do roteiro.
-- 🎨 3. Utilize o Gencraft para **criar a capa** do podcast.
+- [ChatGPT](https://chat.openai.com/)
+- [Gencraft](https://www.gencraft.com/)
+- [LibreOffice](https://www.libreoffice.org/)
+- [RaySo](https://ray.so/)
 
 ## 🤭 **Prompts Utilizados**
 
-### **ChatGPT:**
+### ChatGPT:
 
-| **Ação**   | **Prompt**                                                                                                                                                                                                                                                |
-|:--------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Título**   | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em IA e eu gostaria de uma ajuda para criar 5 sugestões de nomes criativos para um podcast de IA feito por nerds, e que tenha algum trocadilho nerd no nome. O podcast vai falar sobre dicas e novidades sobre o mundo da IA e o que está acontecendo no mercado da saúde. <br> **{REGRAS}**<br> >O nome dever ser enxuto, um nome e um subtítulo.<br> >O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como Harry Potter.<br> >O nome deve conter alguma palavra forte que remeta a IA.<br> **{REGRAS NEGATIVAS}** <br> >Não quero que o nome contenha palavras em inglês.|
-| **Roteiro** | Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em IA cujo nome é "A Ordem dos Algoritmos - Segredos da IA para transformar seus estudos" e tem foco em IA com o público-alvo estudantes de tecnologia. O formato do roteiro deve ser: <br> **[INTRODUÇÃO]** <br> **[CURIOSIDADE 1]** <br> **[CURIOSIDADE 2]** <br> **[FINALIZAÇÃO]** <br> **{REGRAS}** <br> >No bloco [INTRODUÇÃO] substitua por uma introdução igual as introduções do canal Código Fonte TV. <br> >No bloco [CURIOSIDADE 1] substitua por uma curiosidade de IA no campo de estudos de tecnologia. <br> >No bloco [CURIOSIDADE 2] substitua por uma ferramenta de IA no campo de estudos de tecnologia. <br> >No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Lily e esses foram os Segredos de IA dessa semana'. <br> >Use termos de fácil explicação. <br> >O podcast vai ser apresentado somente por uma pessoa, chamada Lily. <br> >O podcast deve ser curto. <br> **{REGRAS NEGATIVAS}** <br> >Não use termos muito técnicos. <br> >Não ultrapasse 5 minutos de duração. |
- 
-### **Gencraft:**
+|   Ação   | Prompt                                                                                                                                                                                                                                                |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   Título   | Crie um título de um ebook sobre o tema de flutter, o ebook é do nicho de programação e o subnicho é flutter, o título deve ser épico e curto, e tenha uma temática de Harry Potter no título, me liste 5 variações de títulos                   |
+| Conteúdo | Faça um texto para ebook, com foco em Flutter, ensinando o básico de flutter usando a temática de Harry Potter. **{REGRAS}** Explique sempre de maneira simples; deixe o texto enxuto; sempre traga exemplos de código em contextos da temática. |
 
-| **Ação**  | **Prompt**                                                                                                            |
-|:--------:| ------------------------------------------------------------------------------------------------------------------ |
-| **Capa**   | Uma ilustração mágica e tecnológica, com um livro aberto flutuando no centro, suas páginas irradiando luz azul e dourada, e algoritmos desenhados como circuitos brilhantes saindo das páginas. Ao fundo, uma mistura de céu estrelado com tons de roxo e azul, remetendo a um universo de possibilidades. Ícones relacionados a estudos, como uma caneta, um gráfico e uma lupa, orbitam em torno do livro, enquanto símbolos místicos, como runas ou formas geométricas, aparecem sutilmente nos cantos. A composição deve evocar mistério, criatividade e inteligência. |
+### Gencraft:
 
----
+|  Ação  | Prompt                                                                                                            |
+| :----: | ------------------------------------------------------------------------------------------------------------------ |
+| Capa   | Uma capa de ebook criativa combinando programação e magia. O tema do ebook é Flutter com temática de Harry Potter. Uma capa minimalista, com poucos elementos e poucas cores. Uma temática nerd. |
 
-## 👩🏼‍💻 **Sobre a Autora**
+## ✨ **Features do Projeto**
+
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via Gencraft
+- Ebook editado utilizando LibreOffice Impress
+- Imagens de código estilizadas com Ray.so
+
+## 📚 **Materiais Disponíveis**
+
+- Imagens e assets em `assets`
+- Ebook final em `output`
+
+## 🔧 **Instruções de Execução**
+
+1. Utilize os prompts listados nas ferramentas sugeridas para reproduzir ou personalizar o material.
+2. Utilize uma ferramenta de edição como LibreOffice ou PowerPoint para finalizar o design do ebook.
+
+## 🔮 **Sobre a Autora**
 
 <p>
     <img
@@ -71,7 +69,4 @@ Siga o passo a passo abaixo para gerar o podcast de maneira automatizada, utiliz
 
 ---
 
-
-💻 com 💛 por [Liliany Nunes](https://github.com/LilianyNunes)
-
----
+🖲 Com magia e código por [Liliany Nunes](https://github.com/LilianyNunes)
