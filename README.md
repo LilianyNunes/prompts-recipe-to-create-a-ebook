@@ -2,7 +2,7 @@
 
 > ℹ️ **NOTA:** Este é o repositório desenvolvido para gerar um podcast utilizando ferramentas de IA, passando por diversas etapas criativas automatizadas.
 
-<a href="https://soundcloud.com/liliany-nunes-2099242/a-ordem-dos-algoritmos-segredos-da-ia-para-transformar-seus-estudos"> 📕 Clique aqui para ouvir</a>
+<a href="https://soundcloud.com/liliany-nunes-2099242/a-ordem-dos-algoritmos-segredos-da-ia-para-transformar-seus-estudos"> 🎧 Clique aqui para ouvir</a>
 
 O objetivo do projeto é criar um podcast com o uso de **ChatGPT**, **Gencraft** e **ElevenLabs**, utilizando prompts criativos para cada parte do processo, desde o roteiro até o áudio e a capa.
 
