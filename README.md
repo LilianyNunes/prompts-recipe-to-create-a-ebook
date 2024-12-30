@@ -1,6 +1,6 @@
 # Projeto Podcast Gerado por I.A.s
 
-> ℹ️ **NOTA:** Este é o repositório desenvolvido para gerar um podcast utilizando ferramentas de IA, passando por diversas etapas criativas automatizadas.
+> ℹ️ **NOTA:** Este é o repositório desenvolvido para gerar um podcast utilizando ferramentas de IA, passando por diversas etapas criativas automatizadas, para completar um desafio de projeto da DIO.
 
 <a href="https://soundcloud.com/liliany-nunes-2099242/a-ordem-dos-algoritmos-segredos-da-ia-para-transformar-seus-estudos"> 🎧 Clique aqui para ouvir</a>
 
